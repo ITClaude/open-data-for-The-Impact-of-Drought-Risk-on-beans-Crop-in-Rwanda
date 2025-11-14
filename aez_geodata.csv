@@ -1,0 +1,22 @@
+District,AEZ_Classification,Resilience_Profile,Avg_Elevation_m,Avg_Annual_Rainfall_mm,Vulnerability_Score_1_to_5
+Musanze,Buberuka Highlands,High Resilience,2468,1465,1
+Rubavu,Congo-Nile Ridge,High Resilience,2489,1587,2
+Nyabihu,Congo-Nile Ridge,High Resilience,2392,1309,1
+Rulindo,Buberuka Highlands,High Resilience,2123,1209,1
+Nyamagabe,Congo-Nile Ridge,High Resilience,2118,1561,1
+Karongi,Buberuka Highlands,High Resilience,1915,1401,1
+Gakenke,Congo-Nile Ridge,High Resilience,2130,1330,1
+Bugesera,Eastern Semi-Arid Plateau,Extreme Vulnerability (Dry Lowlands),1258,965,4
+Kayonza,Eastern Semi-Arid Plateau,Extreme Vulnerability (Dry Lowlands),1442,895,4
+Kirehe,Eastern Semi-Arid Plateau,Extreme Vulnerability (Dry Lowlands),1335,925,4
+Ngoma,Eastern Semi-Arid Plateau,Extreme Vulnerability (Dry Lowlands),1348,881,5
+Gatsibo,Eastern Plateau,Extreme Vulnerability (Dry Lowlands),1396,1094,5
+Nyagatare,Eastern Plateau,Extreme Vulnerability (Dry Lowlands),1206,822,5
+Rwamagana,Eastern Semi-Arid Plateau,Extreme Vulnerability (Dry Lowlands),1333,1044,4
+Kicukiro,Central Plateau,Moderate Vulnerability,1526,1240,4
+Nyarugenge,Central Plateau,Moderate Vulnerability,1744,1269,3
+Gasabo,Central Plateau,Moderate Vulnerability,1684,1170,2
+Huye,Central Plateau,Moderate Vulnerability,1766,1205,3
+Muhanga,Lacustrine & Imbo,Moderate Vulnerability,1668,1201,4
+Gisagara,Central Plateau,Moderate Vulnerability,1794,1172,3
+Rusizi,Lacustrine & Imbo,Moderate Vulnerability,1542,1166,3
